@@ -1,22 +1,67 @@
-# Hackerspace CTF Challenge: Code Breaker
+# CTF Collection
 
-Welcome to the "Code Breaker Challenge" from Hackerspace, a reverse engineering Capture The Flag (CTF) event! This challenge is designed to test your reverse engineering skills in a fun and educational manner. Whether you're a beginner or an experienced CTF enthusiast, this challenge aims to provide an engaging experience.
+This repository contains a collection of Capture The Flag (CTF) challenges created during my time with the CYSCOM Club. The collection includes three distinct CTFs developed for two different events, each with its own theme and set of challenges. These CTFs are designed to test and enhance participants' skills in various cybersecurity domains.
 
-## Challenge Description
+## Table of Contents
 
-In the "Code Breaker Challenge," participants are tasked with reverse engineering a Java class file to uncover a hidden flag. By analyzing and understanding the provided Java code, you'll decrypt a hidden message concealed within the code. The challenge involves logical deduction, binary manipulation, and a series of operations that lead to the final flag.
+- [CTFs Overview](#ctfs-overview)
+  - [Code Breaker](#code-breaker)
+  - [HexHunt](#hexhunt)
+  - [Mystery Trail](#mystery-trail)
+- [Challenge Materials](#challenge-materials)
+- [Solution Materials](#solution-materials)
+- [Walkthrough Guides](#walkthrough-guides)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Walkthrough Guide
+## CTFs Overview
 
-For a comprehensive walkthrough of the challenge, please refer to the detailed guide available [here](https://docs.google.com/document/d/1AhiWd5OOACLGGwq52y7lUXFdvJhHCPmMq9VHIXKDNas/edit). This guide takes you through each step of the challenge, including analysis of the provided Java code, binary manipulation, and the process of decrypting the hidden flag. Whether you're looking for hints or a complete solution, this guide has you covered.
+### Code Breaker
 
-## Repository Contents
+**Event:** Hackerspace Event  
+**Category:** Reverse Engineering
 
-### CTF Question Materials
-- `mem.zip`: A zip file which contains Rev.class and bin.txt
-- `Rev.class`: An obfuscated Java class file containing the hidden flag and encrypted cipher.
-- `bin.txt`: A supplementary file that contains binary data.
+**Description:**  
+Code Breaker is a reverse engineering CTF designed to test participants' ability to analyze and understand compiled binaries. The challenge involves logical deduction, binary manipulation, and a series of operations that lead to the final flag.
 
-### CTF Solution Materials
-- `Answer.java`: A Java program that provides a solution to the challenge, demonstrating the reverse engineering process.
+### HexHunt
 
+**Event:** Hackerspace 2.0 Event  
+**Category:** OSINT
+
+**Description:**  
+HexHunt focuses on OSINT skills, requiring participants to scour the internet for clues and information. The challenge includes finding hidden data, deciphering encoded messages, and leveraging various online tools and resources to uncover the flag.
+
+### Mystery Trail
+
+**Event:** Hackerspace 2.0 Event  
+**Category:** General Skills 
+
+**Description:**  
+Mystery Trail is a general skills CTF. Participants will need to decode and analyze the given video file, apply cryptographic techniques, and solve various puzzles to progress through the challenge, although general skills will take you to finish line.
+
+## Challenge Materials
+
+Each CTF includes a set of challenge materials necessary to complete the tasks. These materials can be obtained by cloning the repository or downloading them individually. Below are the details of the challenge materials for each CTF:
+
+### Code Breaker Challenge Materials
+
+- **`mem.zip`**: A zip file containing:
+  - **`Rev.class`**: An obfuscated Java class file that holds the hidden flag and an encrypted cipher.
+  - **`bin.txt`**: A file containing binary data.
+
+### HexHunt Challenge Materials
+
+- **`input.txt`**: A file with a hexadecimal string to initiate the challenge.
+
+### Mystery Trail Challenge Materials
+
+- **`mystery_trail.mkv`**: A video file to start the challenge.
+
+## Walkthrough Guides
+
+Detailed walkthrough guides are available for each CTF. These guides provide step-by-step instructions on how to approach and solve the challenges, including tips and tricks for beginners.
+
+- [Code Breaker Walkthrough Guide](https://docs.google.com/document/d/1AhiWd5OOACLGGwq52y7lUXFdvJhHCPmMq9VHIXKDNas)
+- [HexHunt Walkthrough Guide](https://docs.google.com/document/d/1uar8In0UnkbmHK5MCB82Pmjv-Td1WBJLKx44FRoT3RQ)
+- [Mystery Trail Walkthrough Guide](https://docs.google.com/document/d/1UL-HIFSpx4NZj23wNRM1lQinRSoG6p2XV4DPi0SlM-k)
