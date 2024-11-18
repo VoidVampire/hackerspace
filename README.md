@@ -60,8 +60,8 @@ Each CTF includes a set of challenge materials necessary to complete the tasks. 
 
 ## Walkthrough Guides
 
-Detailed walkthrough guides are available for each CTF. These guides provide step-by-step instructions on how to approach and solve the challenges, including tips and tricks for beginners.
+Detailed walkthrough guides are available for each CTF in repo and in Google Docs. These guides provide step-by-step instructions on how to approach and solve the challenges, including tips and tricks for beginners.
 
-- [Code Breaker Walkthrough Guide](https://docs.google.com/document/d/1AhiWd5OOACLGGwq52y7lUXFdvJhHCPmMq9VHIXKDNas)
-- [HexHunt Walkthrough Guide](https://docs.google.com/document/d/1uar8In0UnkbmHK5MCB82Pmjv-Td1WBJLKx44FRoT3RQ)
-- [Mystery Trail Walkthrough Guide](https://docs.google.com/document/d/1UL-HIFSpx4NZj23wNRM1lQinRSoG6p2XV4DPi0SlM-k)
+- [Code Breaker Walkthrough Guide](https://docs.google.com/document/d/1OPNWCRQfbrY3RnIGaKFvHSuUEp1rnktYzHygP_OMIPg/edit?usp=sharing)
+- [HexHunt Walkthrough Guide](https://docs.google.com/document/d/1nIzbepqCK1JzasPr3FIXdqf9X8oqKlrtj4Pa7O46w4E/edit?usp=sharing)
+- [Mystery Trail Walkthrough Guide](https://docs.google.com/document/d/1sDuuiFjvdOxqCxfH_yhoLU1W_Q1ULv1gGo_mXv1KXx0/edit?usp=sharing)
